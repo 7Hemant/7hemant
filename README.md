@@ -1,12 +1,12 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am <b>Hemant</b></samp>
+        <samp>&gt; Hey There!, I am <b>Hemant Mourya</b></samp>
 </h3>
 
 <p align="center"> 
   <samp>
     <br
-    「 I am a full stack web appplication developer from <b>Delhi</b> 」
+    <b>「 I am a full stack application developer from Delhi 」</b>
     <br>
     <br>
   </samp>
@@ -28,7 +28,7 @@
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+ 🏢 &emsp; I'm currently working in or at https://cloudactivelabs.com/ <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: m7hemant@gmail.com<br/><br/>
