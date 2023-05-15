@@ -6,7 +6,7 @@
 <p align="center"> 
   <samp>
     <br
-    <b>「 I am a full stack application developer from Delhi 」</b>
+    <b>「 I am a full stack developer from Delhi 」</b>
     <br>
     <br>
   </samp>
@@ -28,8 +28,8 @@
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- 🏢 &emsp; I'm currently working at https://cloudactivelabs.com/ <br/><br/>
- ✌️ &emsp; i love to do programming and sharing knowledge <br/><br/>
+ 🏢 &emsp; I'm currently working at cloudactiveLabs(https://cloudactivelabs.com/) <br/><br/>
+ ✌️ &emsp; I love to do programming and sharing knowledge <br/><br/>
  📧 &emsp; Reach me anytime: m7hemant@gmail.com<br/><br/>
 </p>
 
