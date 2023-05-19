@@ -27,7 +27,6 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  🏢 &emsp; I'm currently working at cloudactiveLabs(https://cloudactivelabs.com/) <br/><br/>
  ✌️ &emsp; I love to do programming and sharing knowledge <br/><br/>
  📧 &emsp; Reach me anytime: m7hemant@gmail.com<br/><br/>
