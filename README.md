@@ -27,7 +27,6 @@
 # About me
 
 <p>
- 🏢 &emsp; I'm currently working at cloudactiveLabs(https://cloudactivelabs.com/) <br/><br/>
  ✌️ &emsp; I love to do programming and sharing knowledge <br/><br/>
  📧 &emsp; Reach me anytime: m7hemant@gmail.com<br/><br/>
 </p>
