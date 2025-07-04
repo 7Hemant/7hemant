@@ -6,7 +6,7 @@
 <p align="center"> 
   <samp>
     <br
-    <b>「 I am a full stack developer from Delhi 」</b>
+    <b>「 I am a full stack developer from Delhi,India 」</b>
     <br>
     <br>
   </samp>
